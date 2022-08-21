@@ -1,0 +1,21 @@
+---
+title: "Ahad Fahad Al-Dossri"
+image: "![](images/logo.jpg)"
+links:
+ - label: LinkedIn
+url: "http://linkedin.com/in/ahad-fahad-6bb6191b6"
+ - label: GitHub
+url: "https://github.com/AhadFM"
+ - label: Email
+url: "AhadFa.36@gmail.com"
+output:
+postcards::trestles
+---
+
+## Bio
+
+Ahad Fahad 
+
+## Education
+
+## Experience
